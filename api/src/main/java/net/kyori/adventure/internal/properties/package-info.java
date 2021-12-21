@@ -22,7 +22,7 @@
  * SOFTWARE.
  */
 /**
- * Internals.
+ * Internal properties.
  */
 @org.jetbrains.annotations.ApiStatus.Internal
-package net.kyori.adventure.internal;
+package net.kyori.adventure.internal.properties;
